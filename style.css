@@ -1,0 +1,84 @@
+* {
+    font-family: Tahoma;
+}
+
+.container {
+    /*padding: 10px;*/
+    /*width:700px;*/
+    /*margin: auto;*/
+    border: 2px solid #444;
+}
+
+.header {
+    padding: 10px;
+    margin: 20px;
+    height: 50px;
+    text-align: right;
+    font-style: italic;
+    border: 2px solid #444;
+}
+
+.navigator {
+    border-top: 2px solid #EDEDED;
+    border-bottom: 2px solid #EDEDED;
+    padding: 10px;
+}
+
+.menu {
+    border: 2px solid #444;
+}
+
+.content {
+    border: 2px solid #444;
+}
+
+.footer {
+    border: 2px solid #444;
+}
+
+/*.content {*/
+/*padding: 20px;*/
+/*}*/
+
+/*.footer {*/
+/*padding: 10px;*/
+/*margin: 20px;*/
+/*height: 40px;*/
+/*text-align: center;*/
+/*}*/
+
+/*<!--Создать класс contact-form с правилами выравнивания блока по центру родительского элемента, фиксированной
+/*ширины 700px и внутренними отступами в 10px. Задать следующие правила для границы этого блока: толщина 2px, тип*/
+/*границы - цельный, цвет #444. Разместить блок этого класса внутри container вместо текстового текста. Внутри блока*/
+/*добавить тестовый текст That would be a form.
+В блок navigation вместо тестового текста добавить ссылки Home, About us, Contact. Также, задать в этом блоке цельные
+границы сверху и снизу цвета #EDEDED, добавить внутренние границы равные 10px.-->*/
+
+/*.body {*/
+    /*background: #E5E5E5;*/
+/*}*/
+
+/*.container {*/
+    /*background: white;*/
+/*}*/
+
+/*.header {*/
+    /*background: #BCBE97;*/
+/*}*/
+
+/*.footer {*/
+    /*background: #F2F2F2;*/
+/*}*/
+/*Задать фоновый цвет <body> как #E5E5E5.
+  Задать белый фон container.
+  Задать фон header как #BCBE97, фон footer как #F2F2F2.*/
+
+/*.flower {*/
+    /*float: right;*/
+    /*height: 5px;*/
+    /*margin-left: 5000px;*/
+/*}*/
+/*.img {*/
+    /*height: 500px;*/
+    /*margin-left: 50px;*/
+/*}*/
